@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Jesus-Olaiz/jesus-olaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jesus Olaiz, a dedicated web development student passionate about creating captivating and visually striking online experiences. With a strong foundation in programming languages and a keen eye for design, I strive to blend my technical expertise with creative flair to craft engaging and user-friendly websites.
 
-Here are some ideas to get you started:
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+- Node
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
+
+### 💡 Goals for 2023
+- Complete a #100DaysOfCode challenge
+- Build 30+ projects 
+- Complete coding bootcamp by September 2023
+
+### 🌴 Fun fact 
+- I LOVE to build tables
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/jesus-olaiz/">Jesus Olaiz</a>
+- Website: coming soon
+<br>
+<br>
+From Juel07 (https://github.com/Juel07)
