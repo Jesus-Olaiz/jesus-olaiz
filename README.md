@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jesus Olaiz, a dedicated web development student passionate about creating captivating and visually striking online experiences. With a strong foundation in programming languages and a keen eye for design, I strive to blend my technical expertise with creative flair to craft engaging and user-friendly websites.
+I am Jesus Olaiz, a dedicated web development student passionate about creating captivating and visually striking online experiences. With a strong foundation in Javascript and a keen eye for design, I strive to blend my technical expertise with creative flair to craft engaging and user-friendly websites.
 
 ### ✔️ I'm currently learning
 - JavaScript
