@@ -24,4 +24,4 @@ I am Jesus Olaiz, a dedicated web development student passionate about creating 
 - Website: coming soon
 <br>
 <br>
-From Juel07 (https://github.com/Juel07)
+
