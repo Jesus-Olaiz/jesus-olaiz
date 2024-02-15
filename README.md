@@ -11,17 +11,17 @@ I am Jesus Olaiz, a dedicated web development student passionate about creating 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
 
-### 💡 Goals for 2023
+### 💡 Goals for 2024
 - Complete a #100DaysOfCode challenge
 - Build 30+ projects 
-- Complete coding bootcamp by September 2023
+- Complete coding bootcamp by February 2024
 
 ### 🌴 Fun fact 
 - I LOVE to build tables
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/jesus-olaiz/">Jesus Olaiz</a>
-- Website: coming soon
+- Website: <a href = "https://www.jesusolaiz.com">Jesus Olaiz</a>
 <br>
 <br>
 
