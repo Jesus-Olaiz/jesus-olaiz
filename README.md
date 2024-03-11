@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-I am Jesus Olaiz, a dedicated web development student passionate about creating captivating and visually striking online experiences. With a strong foundation in Javascript and a keen eye for design, I strive to blend my technical expertise with creative flair to craft engaging and user-friendly websites.
+I am Jesus Olaiz, a dedicated web developer that is passionate about creating captivating and visually striking online experiences. With a strong foundation in Javascript and a keen eye for design, I strive to blend my technical expertise with creative flair to craft engaging and user-friendly websites.
 
-### ✔️ I'm currently learning
+### ✔️ I have learned
 - JavaScript
 - ReactJS
 - Node
 - Python
+- SQL
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
 
 ### 💡 Goals for 2024
 - Complete a #100DaysOfCode challenge
-- Build 30+ projects 
-- Complete coding bootcamp by February 2024
+- Build 50+ projects 
 
 ### 🌴 Fun fact 
 - I LOVE to build tables
